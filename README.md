@@ -5,6 +5,9 @@ This research focuses on an Indonesian dataset of news headlines about electric 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+If you are interested in how to parameter tune for each topic modeling approach and utilize the content provided, please read and cite our paper:
+<a href="https://dl.acm.org/doi/abs/10.1145/3575882.3575905">Nuraisa Novia Hidayati and Anne Parlina. 2023. Performance Comparison of Topic Modeling Algorithms on Indonesian Short Texts. In Proceedings of the 2022 International Conference on Computer, Control, Informatics and Its Applications (IC3INA '22). Association for Computing Machinery, New York, NY, USA, 117–120. https://doi.org/10.1145/3575882.3575905</a>
+
 ## Data Scrapping
 If you want to find your own title, please scrape using the sample code scrapping_kompas.ipynb
 
