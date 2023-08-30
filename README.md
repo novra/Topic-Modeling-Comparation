@@ -57,6 +57,31 @@ To observe the distribution of themes with the constituent terms, click the show
 ![image](https://github.com/novra/Topic-Modeling-Comparation/assets/22464171/1cf95cc4-5a97-44f6-9d9a-df126334612b)
 
 
+## NMF Topic Modeling
+The first appearance to do topic modeling with the NMF algorithm is as follows. Where the procedure is carried out in phases, beginning at the top and working down.
+
+![image](https://github.com/novra/Topic-Modeling-Comparation/assets/22464171/33682349-01ae-4474-98fa-a8c87cbce0b1)
+
+The first step in the above display is to choose a file with the.csv extension that contains prior pre-processing results by clicking the Select button. Then, in the text field beneath the enter number of subjects, enter the appropriate number of topics. Click construct model to begin the topic modeling process. When the process is finished, the screen will look like this:
+
+![image](https://github.com/novra/Topic-Modeling-Comparation/assets/22464171/a92c7c5c-0d41-4349-8340-4179d046ca2b)
+
+A pop-up window will appear, asking whether you want to store the modeling findings. When saved, each text with its topic group is saved in the folder where the code is run in a format with the.csv extension. Each topic will be saved in a separate csv file, just as the prior topic modeling results were.
+
+Meanwhile, the main window display is as seen below; there is a pop-up notification confirming that the model was run and was successful; you can click OK. The coherence value will then be displayed beneath the build model button. The NMF algorithm does not allow for the calculation of the perplexity value.
+
+![image](https://github.com/novra/Topic-Modeling-Comparation/assets/22464171/134b50be-15f0-4f1a-8ce2-2b42bbcd5dcc)
+
+To observe the distribution of themes with the constituent terms, click the show visualization button, and a new window will open with a visualization similar to the one shown below:
+
+![image](https://github.com/novra/Topic-Modeling-Comparation/assets/22464171/8799a069-9cbd-427f-acee-58af98f62455)
+
+
+
+
+
+
+
 
 
 
