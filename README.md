@@ -9,7 +9,7 @@ If you are interested in how to parameter tune for each topic modeling approach 
 <a href="https://dl.acm.org/doi/abs/10.1145/3575882.3575905">Nuraisa Novia Hidayati and Anne Parlina. 2023. Performance Comparison of Topic Modeling Algorithms on Indonesian Short Texts. In Proceedings of the 2022 International Conference on Computer, Control, Informatics and Its Applications (IC3INA '22). Association for Computing Machinery, New York, NY, USA, 117–120. https://doi.org/10.1145/3575882.3575905</a>
 
 ## Data Scrapping
-If you want to find your own title, please scrape using the sample code scrapping_kompas.ipynb
+If you want to find your own news data title, please scrape using the sample code scrapping_kompas.ipynb
 
 ## Data Preprocessing
 
