@@ -1,4 +1,4 @@
-# Topic-Modeling-Comparation
+# Topic Modeling Comparation
 Analyzing Indonesian EV news from kompas.com using LDA, NMF, and GSDMM topic modeling. Identifying best method for coherent topic clustering, aiding EV discourse insights.
 
 This research focuses on an Indonesian dataset of news headlines about electric vehicles (EVs) from kompas.com. The goal is to uncover the main EV-related topics. Three topic modeling methods – LDA, NMF, and GSDMM – are fine-tuned and compared to find the best one for clustering topics based on human judgment and coherence. This study provides insights into EV discourse and the effectiveness of these methods in analyzing Indonesian text data.
