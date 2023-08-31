@@ -76,6 +76,26 @@ To observe the distribution of themes with the constituent terms, click the show
 
 ![image](https://github.com/novra/Topic-Modeling-Comparation/assets/22464171/8799a069-9cbd-427f-acee-58af98f62455)
 
+## GSDMM Topic Modeling
+Next, if you want to use the GSDMM algorithm to describe topics, the first screen will look like this. Where the process is done in steps, from the beginning to the end.
+
+![image](https://github.com/novra/Topic-Modeling-Comparation-in-Indonesian-Short-Text/assets/22464171/d6665b2c-bdfb-463c-8cc7-a0120553b688)
+
+The process sequence is the same as other modeling, the difference is how GSDMM generates and saves the result. GSDMM saves the result in one CSV extension file, as shown below 
+
+![image](https://github.com/novra/Topic-Modeling-Comparation-in-Indonesian-Short-Text/assets/22464171/26716468-610c-497c-9cd1-537a0d29810e)
+
+Meanwhile, the main window display is as seen below; there is a pop-up notification confirming that the model was run and was successful; you can click OK. The coherence value will then be displayed beneath the build model button. The GSDMM algorithm has a number of documents per subject and topic clusters below that. So, based on the image below, cluster 2 contains 305 documents, cluster 0 has 97 documents, cluster 4 has 400 documents, cluster 1 has 14 documents, and cluster 3 has 294 documents. To improve the subject grouping process, ensure that each cluster has document content and not 0 documents.
+
+![image](https://github.com/novra/Topic-Modeling-Comparation-in-Indonesian-Short-Text/assets/22464171/e83b4d2b-4a54-453c-af32-018d082e9ff6)
+
+The visualization for GSDMM looks like this 
+
+![image](https://github.com/novra/Topic-Modeling-Comparation-in-Indonesian-Short-Text/assets/22464171/89a75e62-df45-4ecc-8949-1960be8639f3)
+
+
+
+
 
 
 
